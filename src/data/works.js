@@ -27,6 +27,12 @@ export const works = [
         // tags: ["Personal"]
     },
     {
+        title: "Post Wallet",
+        desc: "Post Wallet is a Binance inspired crypto exchange with a focus on the Nigerian market.",
+        thumbnail: "https://i.postimg.cc/wBC6xhMh/IMG-4302.png",
+        link: "https://postwallet.org",
+    },
+    {
         title: "Crypto Pumps",
         desc: "This is Lil Pump's Official Generative NFT Drop. Purchasing a CryptoPumpsNFT gains you access to premium events and experiences.",
         thumbnail: "https://i.postimg.cc/Dy8vLLCX/Screenshot-2024-09-30-at-16-18-55.png",
