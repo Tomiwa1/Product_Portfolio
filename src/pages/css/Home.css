@@ -9,6 +9,7 @@
 .logo {
     display: flex;
     justify-content: center;
+    /* align-items: center; */
     margin: 70px 0px;
 
       
@@ -33,6 +34,7 @@
     display: flex;
     flex-direction: row-reverse;
     align-items: flex-start;
+    /* justify-content: center; */
 }
 .nav .nav_list .nav_item p {
     margin: 0px;
@@ -113,10 +115,20 @@ svg {
         font-size: 15px;
     }
 }
-@media screen and (max-width: 800px) {  
+@media screen and (max-width: 900px) {
+    .logo {
+        display: flex;
+        justify-content: center;
+        width: 100%;
+        text-align: center;
+        
+    }
+}
+@media screen and (max-width: 800px) { 
     .nav {
         margin: 10px 20px;
         display: block;
+
     }
     .nav .nav_list .nav_item{
         grid-template-columns: 1fr;
