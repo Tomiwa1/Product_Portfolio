@@ -19,8 +19,8 @@
     font-family: "Indie Flower", cursive;
     font-weight: 400;
     font-style: normal;
-    text-decoration: line-through;
-    text-decoration-thickness: 3px;
+    /* text-decoration: line-through;
+    text-decoration-thickness: 3px; */
 }
 
 .logo img {
