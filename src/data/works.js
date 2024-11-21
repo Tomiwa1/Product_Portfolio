@@ -4,7 +4,7 @@ export const works = [
         title: "Ape Accelerator",
         desc: "A prompt-based platform for creating web3 launchpads, DAOs, etc.",
         thumbnail: "https://i.postimg.cc/x1118LLh/Ape-Coin-Bored-Ape-Yacht-Club-Token.jpg",
-        link: "www.apecoinaccelerator.com",
+        link: "https://www.apecoinaccelerator.com/",
         // tools: ["TypeScript", "OneID API"],
         // tags: ["Project"]
     },
