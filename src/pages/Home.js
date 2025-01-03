@@ -49,7 +49,7 @@ const Home = () => {
                     {
                         page.pathname === '/' &&
                             <div className="intro">
-                                <h2 className="grow">{"Tehnical Product Manager"} <br /> {"&"} <br /> {"Web3 Community Manager"}</h2>
+                                <h2 className="grow">{"Tehnical Product Manager"} <br /> {"&"} <br /> {"Technical Writer"}</h2>
                                 <p className="grow"><IconLocation /> Based in Lagos, Nigeria</p>
                             </div>
                     }

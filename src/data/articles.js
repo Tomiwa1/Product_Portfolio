@@ -8,6 +8,12 @@ export const articles = [
         // tags: ["Featured on Hasdnode", "Contract"]
     },
     {
+        title: "Huma x PayFi",
+        desc: "PayFi, the latest financial concept built on the Solana blockchain.",
+        thumbnail: "https://i.postimg.cc/htHwRXxq/4.png",
+        link: "https://humaxpayfi.hashnode.dev/huma-finance-x-payfi",
+    },
+    {
         title: "DeFi in Eli5 terms",
         desc: "Explain like i'm five version of the term DeFi",
         thumbnail: "https://i.postimg.cc/PxctpwXQ/De-Fi-Eli5.jpg",
