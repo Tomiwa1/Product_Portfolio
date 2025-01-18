@@ -15,6 +15,13 @@ export const works = [
 
     },
     {
+        title: "MysticPOD",
+        desc: "GenAI for Print-On-Demand, a powerful design generation tool for POD sellers..",
+        thumbnail: "https://postimg.cc/v4XWrJqw",
+        link: "https://www.mysticpod.com/",
+
+    },
+    {
         title: "Otherside",
         desc: "Otherside is a gamified, interoperable metaverse that blends mechanics from MMORPGs and web3-enabled virtual worlds.",
         thumbnail: "https://i.postimg.cc/MZdjZZQs/Screenshot-2024-09-30-at-16-13-33.png",

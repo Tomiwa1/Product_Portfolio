@@ -4,7 +4,7 @@ import { IconExternalLink, IconGithub, IconProjects } from '../icons/icons'
 import './css/Works.css'
 
 const Works = () => {
-    const Resume = "https://docs.google.com/document/d/1qk6F012JaUMLfZyo76eBWU9vtBcTTmiFsA_8AbafDOo/edit?usp=sharing"
+    const Resume = "https://docs.google.com/document/d/1qoPnMUDrJI-GbN7ARTaEF7VsRla2q8kNTTq37Ori0vI/edit?tab=t.0"
     
     return (
         <div className='Works'>
